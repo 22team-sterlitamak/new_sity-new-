@@ -1,0 +1,22 @@
+.btn-primary{
+	background-color: blue;
+	color: white;
+	position
+}
+
+.btn-primaru:hover,
+.btn-primary:focus,
+.btn-primary:visited{
+	color: white;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background: url(smm.png) no-repeat center top fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	font-family: Helvetica,Tahoma,Arial;
+}
